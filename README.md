@@ -1,6 +1,6 @@
 # Aula Web — código fuente para Vercel
 
-Versión actual: menú sin el bloque HTML + CSS / La Litoral, interfaz actualizada e iconos Bootstrap Icons.
+Versión actual: referencias específicas de MDN en las 21 fichas HTML y las 21 fichas CSS, menú sin el bloque HTML + CSS / La Litoral, interfaz actualizada e iconos Bootstrap Icons.
 
 ## Archivos
 
